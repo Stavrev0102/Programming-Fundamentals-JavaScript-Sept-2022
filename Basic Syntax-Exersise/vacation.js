@@ -29,7 +29,7 @@ function vacation (numPeople, typeOfTheGroup, day) {
         } else if (day === `Saturday`) {
             price = numPeople * 20
         } else if (day === `Sunday`) {
-            price = numPeople * 22.50
+            price = numPeople * 22.50 
         } 
     }
 
